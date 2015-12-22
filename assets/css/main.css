@@ -2371,6 +2371,7 @@
 			}
 
 				.pagination .previous {
+					display:none;
 					margin-right: 0.6em;
 				}
 
