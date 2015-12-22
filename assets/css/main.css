@@ -1870,13 +1870,13 @@
 /* Pagination */
 
 	.pagination .pages {
-		display: inline-block;
+		display: none;
 		font-family: 'Open Sans Condensed', sans-serif;
 		font-weight: 700;
 	}
 
 		.pagination .pages span {
-			display: inline-block;
+			display: none;
 			width: 1.5em;
 			text-align: center;
 			margin: 0 0.4em 0 0;
@@ -1884,7 +1884,7 @@
 
 		.pagination .pages a {
 			cursor: pointer;
-			display: inline-block;
+			display: none;
 			text-align: center;
 			text-decoration: none;
 			color: inherit;
